@@ -18,14 +18,14 @@ Gracias por las horas de estudio compartidas, no solo en Teoría de la Computaci
 sino en todas esas materias que nos querían ver caer.
 
 ## A quienes ya no siguen con nosotros
-Edgar Martín — Se dio de baja.
-Rodrigo Herguera — La profa Lizzie lo pescó haciendo trampa.
-El dedo del profe Víctor — Sigue ahí, pero ya no volvió a ser el mismo.
+- Edgar Martín — Se dio de baja.
+- Rodrigo Herguera — La profa Lizzie lo pescó haciendo trampa.
+- El dedo del profe Víctor — Sigue ahí, pero ya no volvió a ser el mismo.
 
 ## A mi equipo
-Alan Kuyock
-Rubén Sancen
-Y la mera verdura del caldo: yo, Gael Cordero.
+- Alan Kuyock
+- Rubén Sancen
+- Y la mera verdura del caldo: yo, Gael Cordero.
 De aquí somos, y de aquí salimos.
 
 ## A Dross
