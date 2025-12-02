@@ -2,7 +2,7 @@
 Proyecto final de la materia Teorias de la computacion
 ## integrantes del equipo 
 - [Gael Uyuumil Cordero Chavez](https://github.com/gaeluwu29)
-- [Alan Jesus Kuyock Itza](https://github.com/kuyocitza-dev)
+- [Alan Jesus Kuyoc Itza](https://github.com/kuyocitza-dev)
 - [Ruben Alejandro Sancen Pech](https://github.com/Rubensancen)
 
 
@@ -19,11 +19,11 @@ sino en todas esas materias que nos querían ver caer.
 
 ## A quienes ya no siguen con nosotros
 - Edgar Martín — Se dio de baja.
-- Rodrigo Herguera — La profa Lizzie lo pescó haciendo trampa.
+- Rodrigo Herguera — La profa Lizzi lo pescó haciendo trampa.
 - El dedo del profe Víctor — Sigue ahí, pero ya no volvió a ser el mismo.
 
 ## A mi equipo
-- Alan Kuyock
+- Alan Kuyoc
 - Rubén Sancen
 - Y la mera verdura del caldo: yo, Gael Cordero.
 De aquí somos, y de aquí salimos.
