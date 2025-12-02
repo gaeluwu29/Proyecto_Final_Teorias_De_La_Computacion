@@ -1,9 +1,9 @@
 # Proyecto_Final_Teorias_De_La_Computacion
 Proyecto final de la materia Teorias de la computacion
 ## integrantes del equipo 
-  - Gael Uyuumil Cordero Chavez
-  [- Alana Jesus Kuyock Itza](https://github.com/kuyocitza-dev)
-  [- Ruben Alejandro Sancen Pech](https://github.com/Rubensancen)
+- [Gael Uyuumil Cordero Chavez](https://github.com/gaeluwu29)
+- [Alan Jesus Kuyock Itza](https://github.com/kuyocitza-dev)
+- [Ruben Alejandro Sancen Pech](https://github.com/Rubensancen)
 
 
 # Agradecimientos
